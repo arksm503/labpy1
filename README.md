@@ -1,8 +1,8 @@
 Mencari Bilangan Terbesar dari 3 Bilangan Diinputkan
 
-a = int(input("Input Bilangan 1 : "))
-b = int(input("Input Bilangan 2 : "))
-c = int(input("Input Bilangan 3 : "))
+a = int(input("Input Bilangan 1 : "))</br>
+b = int(input("Input Bilangan 2 : "))</br>
+c = int(input("Input Bilangan 3 : "))</br>
 Input a,b,c, tipe data di set ke integer
 
 if a>b :
